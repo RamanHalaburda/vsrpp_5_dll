@@ -1,0 +1,12 @@
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MultiPinger\vsrpp_5\StandartSounds\bin\Debug\StandartSounds.dll
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MultiPinger\vsrpp_5\StandartSounds\bin\Debug\StandartSounds.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MultiPinger\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MultiPinger\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.csproj.CoreCompileInputs.cache
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MultiPinger\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.dll
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\MultiPinger\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\vsrpp_5\StandartSounds\bin\Debug\StandartSounds.dll
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\vsrpp_5\StandartSounds\bin\Debug\StandartSounds.pdb
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.csprojResolveAssemblyReference.cache
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.csproj.CoreCompileInputs.cache
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.dll
+E:\study\1_Study\BarsuEngineeringFaculty\ProjMVS2017\vsrpp_5\StandartSounds\obj\Debug\StandartSounds.pdb

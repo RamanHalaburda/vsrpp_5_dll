@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vsrpp_5", "vsrpp_5\vsrpp_5.csproj", "{7AC6E595-B6D6-41F9-8955-9C2B2A2620AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandartSounds", "StandartSounds\StandartSounds.csproj", "{5225A2F2-E2D5-4F2B-89F1-24AD4B19A580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AC6E595-B6D6-41F9-8955-9C2B2A2620AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC6E595-B6D6-41F9-8955-9C2B2A2620AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC6E595-B6D6-41F9-8955-9C2B2A2620AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC6E595-B6D6-41F9-8955-9C2B2A2620AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5225A2F2-E2D5-4F2B-89F1-24AD4B19A580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5225A2F2-E2D5-4F2B-89F1-24AD4B19A580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5225A2F2-E2D5-4F2B-89F1-24AD4B19A580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5225A2F2-E2D5-4F2B-89F1-24AD4B19A580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D70675C8-0776-4C02-8056-DEC3C1B1B0E2}
+	EndGlobalSection
+EndGlobal
